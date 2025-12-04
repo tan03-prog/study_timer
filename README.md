@@ -1,5 +1,5 @@
 timer_web.html
-manifest.webmanifest（あれば）
-service-worker.js（あれば）
-icon-192.png（あれば）
-icon-512.png（あれば）
+manifest.webmanifest
+service-worker.js
+icon-192.png
+icon-512.png
